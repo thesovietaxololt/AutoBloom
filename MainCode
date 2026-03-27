@@ -1,8 +1,8 @@
 #include "WiFiS3.h"
 
 // --- Inställningar ---
-const char* ssid = "Hur är det?";
-const char* pass = "Bobo0712"; 
+const char* ssid = "Namn";
+const char* pass = "Lösenord"; 
 
 #define LIGHT_SENSOR_PIN A3
 #define MOISTURE_SENSOR_PIN A4
